@@ -3,6 +3,6 @@ def hello
 end
 
 def greet(who)
-  #who = gets.chomp
+  
   "Hello, #{who}!"
 end
